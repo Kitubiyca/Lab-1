@@ -20,6 +20,5 @@ int main(){
     Pokemon pokemon_basic;
     pokemon_basic.add_info(filename_out); //Adds info into previously created file
     pokemon_basic.add_info(filename_out); //Adds info into previously created file
-    system("pause");
     return 0;
 }
